@@ -1,0 +1,33 @@
+package com.example.kino_temp.models.kinop_1
+
+data class PropertiesXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX(
+    val ageRating: AgeRatingX,
+    val alternativeName: AlternativeName,
+    val backdrop: BackdropX,
+    val countries: CountriesX,
+    val description: DescriptionXX,
+    val enName: EnNameX,
+    val externalId: ExternalIdX,
+    val genres: GenresX,
+    val id: Id,
+    val isSeries: IsSeriesX,
+    val logo: LogoXX,
+    val movieLength: MovieLengthX,
+    val name: NameXX,
+    val names: Names,
+    val poster: Poster,
+    val rating: Rating,
+    val ratingMpaa: RatingMpaaX,
+    val releaseYears: ReleaseYearsX,
+    val seriesLength: SeriesLengthX,
+    val shortDescription: ShortDescriptionX,
+    val status: StatusX,
+    val ticketsOnSale: TicketsOnSaleX,
+    val top10: Top10X,
+    val top250: Top10X,
+    val totalSeriesLength: TotalSeriesLengthX,
+    val type: Type,
+    val typeNumber: TypeNumberX,
+    val votes: VotesX,
+    val year: YearXX
+)
